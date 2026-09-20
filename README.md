@@ -1,3 +1,11 @@
+# Cloud A2 Demo Repository
+
+This repository is for demonstration purposes, it features an architecture.md file that will be maintained by the cloud deployed AI agent.
+
+The AI agent will be able to access issues including its images and pull requests, leave comments and triage issues.
+
+The user will be able to access the AI agents frontend chat, converse with the AI and have the ability to send and recieve images.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
